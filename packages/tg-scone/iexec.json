@@ -1,0 +1,17 @@
+{
+  "description": "My iExec resource description, must be at least 150 chars long in order to pass the validation checks. Describe your application, dataset or workerpool to your users",
+  "license": "MIT",
+  "author": "?",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.png",
+  "app": {
+    "owner": "0xA032B0516F3f53E38bee90dd0dcF87482Ebd579C",
+    "name": "tg-scone",
+    "type": "DOCKER",
+    "multiaddr": "nestorbonilla/tg-scone:1.0.0",
+    "checksum": "0x43da1f015df83f4426be46e0eae8c83e4159315abc6044496da2123526cb6d0a"
+  }
+}

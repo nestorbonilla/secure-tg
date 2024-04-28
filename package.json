@@ -1,0 +1,8 @@
+{
+    "name": "tg-app",
+    "workspaces": [
+      "tg-bot",
+      "tg-scone",
+      "website"
+    ]
+  }

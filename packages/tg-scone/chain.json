@@ -1,0 +1,9 @@
+{
+  "default": "bellecour",
+  "chains": {
+    "mainnet": {},
+    "bellecour": {
+      "sms": { "scone": "https://sms.scone-debug.v8-bellecour.iex.ec" }
+    }
+  }
+}
